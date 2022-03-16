@@ -177,3 +177,16 @@ C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\PublicLibsManagement\obj\Debug
 C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CopyComplete
 C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\PublicLibsManagement\obj\Debug\PublicLibsManagement.dll
 C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\PublicLibsManagement\obj\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진Git_New\PublicLibsManagement\bin\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진Git_New\PublicLibsManagement\bin\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진Git_New\PublicLibsManagement\bin\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진Git_New\PublicLibsManagement\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진Git_New\PublicLibsManagement\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진Git_New\PublicLibsManagement\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진Git_New\PublicLibsManagement\bin\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진Git_New\PublicLibsManagement\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진Git_New\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진Git_New\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진Git_New\PublicLibsManagement\obj\Debug\PublicLibsManagement.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진Git_New\PublicLibsManagement\obj\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진Git_New\PublicLibsManagement\obj\Debug\PublicLibsManagement.pdb

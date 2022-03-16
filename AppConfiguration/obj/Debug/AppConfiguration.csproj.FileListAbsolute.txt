@@ -233,3 +233,14 @@ C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\AppConfiguration\obj\Debug\App
 C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\AppConfiguration\obj\Debug\AppConfiguration.csproj.CopyComplete
 C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\AppConfiguration\obj\Debug\AppConfiguration.dll
 C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\AppConfiguration\obj\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진Git_New\AppConfiguration\bin\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진Git_New\AppConfiguration\bin\Debug\AppConfiguration.pdb
+C:\Users\ibuild\Desktop\일진Git_New\AppConfiguration\bin\Debug\Globals.dll
+C:\Users\ibuild\Desktop\일진Git_New\AppConfiguration\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진Git_New\AppConfiguration\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진Git_New\AppConfiguration\bin\Debug\Globals.pdb
+C:\Users\ibuild\Desktop\일진Git_New\AppConfiguration\obj\Debug\AppConfiguration.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진Git_New\AppConfiguration\obj\Debug\AppConfiguration.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진Git_New\AppConfiguration\obj\Debug\AppConfiguration.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진Git_New\AppConfiguration\obj\Debug\AppConfiguration.dll
+C:\Users\ibuild\Desktop\일진Git_New\AppConfiguration\obj\Debug\AppConfiguration.pdb

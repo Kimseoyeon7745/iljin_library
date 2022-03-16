@@ -148,3 +148,15 @@ C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\les\obj\Debug\les.csproj.CoreC
 C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\les\obj\Debug\les.csproj.CopyComplete
 C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\les\obj\Debug\les.dll
 C:\Users\ibuild\Desktop\일진\a)2022_02_28 lijin\les\obj\Debug\les.pdb
+C:\Users\ibuild\Desktop\일진Git_New\les\bin\Debug\les.dll
+C:\Users\ibuild\Desktop\일진Git_New\les\bin\Debug\les.pdb
+C:\Users\ibuild\Desktop\일진Git_New\les\bin\Debug\MysqlLib.dll
+C:\Users\ibuild\Desktop\일진Git_New\les\bin\Debug\PublicLibsManagement.dll
+C:\Users\ibuild\Desktop\일진Git_New\les\bin\Debug\MySql.Data.dll
+C:\Users\ibuild\Desktop\일진Git_New\les\bin\Debug\MysqlLib.pdb
+C:\Users\ibuild\Desktop\일진Git_New\les\bin\Debug\PublicLibsManagement.pdb
+C:\Users\ibuild\Desktop\일진Git_New\les\obj\Debug\les.csproj.AssemblyReference.cache
+C:\Users\ibuild\Desktop\일진Git_New\les\obj\Debug\les.csproj.CoreCompileInputs.cache
+C:\Users\ibuild\Desktop\일진Git_New\les\obj\Debug\les.csproj.CopyComplete
+C:\Users\ibuild\Desktop\일진Git_New\les\obj\Debug\les.dll
+C:\Users\ibuild\Desktop\일진Git_New\les\obj\Debug\les.pdb
